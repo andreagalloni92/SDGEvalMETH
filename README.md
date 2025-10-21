@@ -6,7 +6,8 @@ PhD Thesis Repository:
 
 **src/**: contains source code for experiments
 
-**LaTeX**: contains source code for LaTeX papers
+**LaTeX/**: contains source code for LaTeX papers
 
 2025.10.22
+
 Andrea Galloni
